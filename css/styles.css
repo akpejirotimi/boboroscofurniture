@@ -159,10 +159,14 @@ text-align: center;
 
   #title{text-align: center;
   }
-  .title-image {
+  .title-image
+  {
     position: static;
     transform:rotate(0);
 
+  }
+  .nav-item-text{
+    text-align: left;
   }
 
 }
